@@ -17,6 +17,7 @@ For a text and image version of this assignment (instead of a video): https://gi
 
 
 Topics covered:
+
 1. Forking a repository GitHub.
 2. `git clone` to clone a repository to your local computer.
 3. `git status` to see the status of your locally cloned git repository.
