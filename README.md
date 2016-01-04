@@ -10,3 +10,4 @@ Follow along here, courtesy of Learn http://learn-co-videos.s3.amazonaws.com/lea
   * It should be titled with your name firstName_lastName.txt and should include:
     * Your year and major
     * Your favorite programming language/s
+* Make sure you send a pull request back to this repo, that's the most important part!
