@@ -3,6 +3,8 @@ A git intro lesson
 
 ##Assignment
 
+Start with this interactive [git tutorial](https://try.github.io/levels/1/challenges/1). Come back to this page after you've finished.
+
 Follow along [here](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/enough-git-for-learn.mp4), courtesy of Learn, but note these important differences:
 
 * Instead of going to the first-lab-000 repo, go to the url for this git intro assignment: <https://github.com/Duke-HC-Mobile-Apps-Web/Git-Intro>
@@ -30,5 +32,6 @@ For a text and image version of this assignment (instead of a video): https://gi
 7. Opening a Pull Request on GitHub.
 
 ##Further Learning
+http://git-scm.com/book/en/Getting-Started-About-Version-Control
+https://help.github.com/articles/set-up-git
 
-Try an interactive [git tutorial](https://try.github.io/levels/1/challenges/1).
