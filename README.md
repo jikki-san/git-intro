@@ -28,3 +28,7 @@ For a text and image version of this assignment (instead of a video): https://gi
 5. `git commit -am "Commit Message"` to commit changes that have been added with a message.
 6. `git push` to upload your local changes to GitHub.
 7. Opening a Pull Request on GitHub.
+
+##Further Learning
+
+Try an interactive [git tutorial](https://try.github.io/levels/1/challenges/1).
