@@ -32,6 +32,6 @@ For a text and image version of this assignment (instead of a video): https://gi
 7. Opening a Pull Request on GitHub.
 
 ##Further Learning
-http://git-scm.com/book/en/Getting-Started-About-Version-Control
-https://help.github.com/articles/set-up-git
+http://git-scm.com/book/en/Getting-Started-About-Version-Control  
+https://help.github.com/articles/set-up-git 
 
