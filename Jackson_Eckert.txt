@@ -1,0 +1,3 @@
+Year: Senior
+Major: Biochemistry
+Favorite Programming Languages: Java, C, Ruby
