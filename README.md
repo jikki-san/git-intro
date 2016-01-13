@@ -8,7 +8,7 @@ Start with this interactive [git tutorial](https://try.github.io/levels/1/challe
 Follow along [here](http://learn-co-videos.s3.amazonaws.com/learn-co-orientation/enough-git-for-learn.mp4), courtesy of Learn, but note these important differences:
 
 * Instead of going to the first-lab-000 repo, go to the url for this git intro assignment: <https://github.com/Duke-HC-Mobile-Apps-Web/Git-Intro>
-* Ignore the instruction telling you to use the SSH url, we're going to use the https one: <https://github.com/Duke-HC-Mobile-Apps-Web/Git-Intro.git>
+* Ignore the instruction telling you to use the SSH url, please use the HTTPS one that you'll see in your forked repository
   * To optionally learn more about setting your machine up to use SSH, check out <https://help.github.com/articles/generating-ssh-keys/>
 * The video walks through adding several files to the repo, we'd like you to only add one .txt file.  If you've added others, look at the *git rm* command
   * It should be titled with your name *firstName_lastName.txt* and should include:
